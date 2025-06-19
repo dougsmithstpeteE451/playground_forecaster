@@ -1,0 +1,10 @@
+metric_name,window,value
+velocity_MQL_to_NBM_days,TTM,18
+velocity_MQL_to_NBM_days,3M,15
+conversion_MQL_to_NBM,TTM,0.42
+conversion_MQL_to_NBM,3M,0.47
+conversion_NBM_to_Deal,TTM,0.6
+conversion_Deal_to_Won,TTM,0.8
+win_rate,TTM,0.65
+NBM_show_rate,TTM,0.9
+ACV,TTM,10000
